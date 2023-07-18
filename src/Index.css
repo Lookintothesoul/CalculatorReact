@@ -1,0 +1,13 @@
+html > body {
+    padding: 2rem 0;
+    background-color: #282c34;
+    min-height: calc(100vh - 4rem);
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin: 0;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
